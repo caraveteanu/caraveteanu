@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caraveteanu
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning Java
 
 <!---
 caraveteanu/caraveteanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
